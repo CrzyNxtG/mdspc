@@ -1,0 +1,1 @@
+### 5.8.17 NR sidelink U2U Remote UE operation

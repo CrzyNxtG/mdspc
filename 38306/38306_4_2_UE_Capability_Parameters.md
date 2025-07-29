@@ -1,0 +1,1 @@
+## 4.2 UE Capability Parameters

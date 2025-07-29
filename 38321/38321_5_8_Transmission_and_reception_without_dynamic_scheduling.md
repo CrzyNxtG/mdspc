@@ -1,0 +1,1 @@
+## 5.8 Transmission and reception without dynamic scheduling

@@ -1,0 +1,1 @@
+## 16.13 Support of Reduced Capability (RedCap) and enhanced Reduced Capability (eRedCap) NR devices

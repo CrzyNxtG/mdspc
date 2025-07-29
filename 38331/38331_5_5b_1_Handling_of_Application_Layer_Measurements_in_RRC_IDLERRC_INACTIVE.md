@@ -1,0 +1,1 @@
+### 5.5b.1 Handling of Application Layer Measurements in RRC_IDLE/RRC_INACTIVE

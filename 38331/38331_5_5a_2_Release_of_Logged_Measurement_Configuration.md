@@ -1,0 +1,1 @@
+### 5.5a.2 Release of Logged Measurement Configuration

@@ -1,0 +1,1 @@
+### 5.6.1 UE capability transfer

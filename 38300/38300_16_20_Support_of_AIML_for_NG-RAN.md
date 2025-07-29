@@ -1,0 +1,1 @@
+## 16.20 Support of AI/ML for NG-RAN

@@ -1,0 +1,1 @@
+## 16.22 Support of 2Rx XR devices

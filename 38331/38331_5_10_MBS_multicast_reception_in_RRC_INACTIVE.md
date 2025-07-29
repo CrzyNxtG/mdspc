@@ -1,0 +1,1 @@
+## 5.10 MBS multicast reception in RRC_INACTIVE

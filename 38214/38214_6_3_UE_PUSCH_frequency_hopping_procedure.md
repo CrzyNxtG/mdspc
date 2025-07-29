@@ -1,0 +1,1 @@
+## 6.3 UE PUSCH frequency hopping procedure

@@ -1,0 +1,1 @@
+### 9.3.2 NR-E-UTRA mobility: From 5GC to EPC

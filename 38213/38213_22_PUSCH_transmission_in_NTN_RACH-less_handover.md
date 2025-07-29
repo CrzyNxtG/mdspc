@@ -1,0 +1,1 @@
+# 22 PUSCH transmission in NTN RACH-less handover

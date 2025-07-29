@@ -1,0 +1,1 @@
+### 9.2.2 Mobility in RRC_INACTIVE

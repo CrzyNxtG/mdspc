@@ -1,0 +1,1 @@
+## 16.6 Stand-Alone NPN
