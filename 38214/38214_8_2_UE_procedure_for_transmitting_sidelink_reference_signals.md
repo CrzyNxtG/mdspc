@@ -1,1 +1,0 @@
-## 8.2 UE procedure for transmitting sidelink reference signals

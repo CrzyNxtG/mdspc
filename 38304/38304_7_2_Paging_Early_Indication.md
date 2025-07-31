@@ -1,1 +1,0 @@
-## 7.2 Paging Early Indication

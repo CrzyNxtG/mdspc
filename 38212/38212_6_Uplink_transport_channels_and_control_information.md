@@ -1,1 +1,0 @@
-# 6 Uplink transport channels and control information

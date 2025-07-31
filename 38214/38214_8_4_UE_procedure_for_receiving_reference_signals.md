@@ -1,1 +1,0 @@
-## 8.4 UE procedure for receiving reference signals

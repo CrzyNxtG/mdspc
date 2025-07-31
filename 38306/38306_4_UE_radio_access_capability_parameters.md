@@ -1,1 +1,0 @@
-# 4 UE radio access capability parameters

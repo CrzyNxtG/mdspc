@@ -1,1 +1,0 @@
-## 11.2 Inter-node RRC messages

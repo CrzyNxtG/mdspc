@@ -1,1 +1,0 @@
-## 5.6 Handling of unknown, unforeseen and erroneous protocol data

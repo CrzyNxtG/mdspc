@@ -1,1 +1,0 @@
-### 16.8.2 Network timing synchronization status monitoring

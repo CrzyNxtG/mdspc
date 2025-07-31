@@ -1,1 +1,0 @@
-# 7 Variables and constants

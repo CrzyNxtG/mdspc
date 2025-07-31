@@ -1,1 +1,0 @@
-## 5.27 Small Data Transmission

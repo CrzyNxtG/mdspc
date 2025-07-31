@@ -1,1 +1,0 @@
-### 5.3.4 Initial AS security activation

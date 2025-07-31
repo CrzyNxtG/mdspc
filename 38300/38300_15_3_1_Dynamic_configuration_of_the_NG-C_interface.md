@@ -1,1 +1,0 @@
-### 15.3.1 Dynamic configuration of the NG-C interface

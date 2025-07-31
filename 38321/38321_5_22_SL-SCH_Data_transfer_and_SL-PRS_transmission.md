@@ -1,1 +1,0 @@
-## 5.22 SL-SCH Data transfer and SL-PRS transmission

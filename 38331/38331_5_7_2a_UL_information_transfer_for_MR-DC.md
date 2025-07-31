@@ -1,1 +1,0 @@
-### 5.7.2a UL information transfer for MR-DC

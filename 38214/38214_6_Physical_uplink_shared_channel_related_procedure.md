@@ -1,1 +1,0 @@
-# 6 Physical uplink shared channel related procedure

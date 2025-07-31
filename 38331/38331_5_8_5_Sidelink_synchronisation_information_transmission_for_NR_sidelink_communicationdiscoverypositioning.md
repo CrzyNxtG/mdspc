@@ -1,1 +1,0 @@
-### 5.8.5 Sidelink synchronisation information transmission for NR sidelink communication/discovery/positioning

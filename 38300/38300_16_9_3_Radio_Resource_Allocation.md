@@ -1,1 +1,0 @@
-### 16.9.3 Radio Resource Allocation

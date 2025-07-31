@@ -1,1 +1,0 @@
-## 4.4 Physical resources

@@ -1,1 +1,0 @@
-## 4.2 RLC architecture

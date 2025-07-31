@@ -1,1 +1,0 @@
-## 6.2 UE reference signal (RS) procedure

@@ -1,1 +1,0 @@
-### 16.9.9 Sidelink in Shared Spectrum (SL-U)

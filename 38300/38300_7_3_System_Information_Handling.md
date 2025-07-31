@@ -1,1 +1,0 @@
-## 7.3 System Information Handling

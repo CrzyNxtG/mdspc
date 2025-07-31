@@ -1,1 +1,0 @@
-## 5.4 UL-SCH data transfer

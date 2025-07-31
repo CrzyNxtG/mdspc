@@ -1,1 +1,0 @@
-## 16.7 Public Network Integrated NPN

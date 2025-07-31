@@ -1,1 +1,0 @@
-# 5 Optional features without UE radio access capability parameters

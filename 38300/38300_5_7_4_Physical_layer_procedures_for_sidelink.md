@@ -1,1 +1,0 @@
-### 5.7.4 Physical layer procedures for sidelink

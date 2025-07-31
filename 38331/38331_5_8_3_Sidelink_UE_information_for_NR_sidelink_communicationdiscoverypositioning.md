@@ -1,1 +1,0 @@
-### 5.8.3 Sidelink UE information for NR sidelink communication/discovery/positioning

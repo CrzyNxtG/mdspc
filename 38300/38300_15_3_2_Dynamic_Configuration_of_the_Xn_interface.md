@@ -1,1 +1,0 @@
-### 15.3.2 Dynamic Configuration of the Xn interface

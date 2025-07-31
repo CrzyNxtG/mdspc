@@ -1,1 +1,0 @@
-## 5.12 Ethernet header compression and decompression

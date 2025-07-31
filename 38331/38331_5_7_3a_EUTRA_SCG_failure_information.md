@@ -1,1 +1,0 @@
-### 5.7.3a EUTRA SCG failure information

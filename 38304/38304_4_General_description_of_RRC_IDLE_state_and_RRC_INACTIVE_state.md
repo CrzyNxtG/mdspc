@@ -1,1 +1,0 @@
-# 4 General description of RRC_IDLE state and RRC_INACTIVE state

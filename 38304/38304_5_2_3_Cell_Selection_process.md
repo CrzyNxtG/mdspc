@@ -1,1 +1,0 @@
-### 5.2.3 Cell Selection process

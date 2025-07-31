@@ -1,1 +1,0 @@
-### 16.2.4 Prioritization of transmissions/receptions

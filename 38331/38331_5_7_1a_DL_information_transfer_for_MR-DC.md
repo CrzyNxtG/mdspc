@@ -1,1 +1,0 @@
-### 5.7.1a DL information transfer for MR-DC

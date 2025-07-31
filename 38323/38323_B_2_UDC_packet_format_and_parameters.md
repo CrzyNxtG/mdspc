@@ -1,1 +1,0 @@
-# B.2 UDC packet format and parameters

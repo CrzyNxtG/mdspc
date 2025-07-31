@@ -1,1 +1,0 @@
-# 3 Abbreviations and Definitions

@@ -1,1 +1,0 @@
-# 19 PUSCH transmission in RRC_INACTIVE state

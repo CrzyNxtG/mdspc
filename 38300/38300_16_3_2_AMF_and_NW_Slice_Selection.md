@@ -1,1 +1,0 @@
-### 16.3.2 AMF and NW Slice Selection

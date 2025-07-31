@@ -1,1 +1,0 @@
-### 16.21.3 Control plane procedure for multi-path relaying

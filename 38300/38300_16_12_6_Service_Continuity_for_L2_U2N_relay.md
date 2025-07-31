@@ -1,1 +1,0 @@
-### 16.12.6 Service Continuity for L2 U2N relay

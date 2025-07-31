@@ -1,1 +1,0 @@
-# 4 Frame structure and physical resources

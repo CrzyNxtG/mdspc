@@ -1,1 +1,0 @@
-#  4 Synchronization procedures

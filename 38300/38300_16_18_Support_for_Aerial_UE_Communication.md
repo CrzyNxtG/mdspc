@@ -1,1 +1,0 @@
-## 16.18 Support for Aerial UE Communication

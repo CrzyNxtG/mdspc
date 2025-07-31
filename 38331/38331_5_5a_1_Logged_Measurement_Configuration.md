@@ -1,1 +1,0 @@
-### 5.5a.1 Logged Measurement Configuration

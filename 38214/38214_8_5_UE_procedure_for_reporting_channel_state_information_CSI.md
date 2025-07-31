@@ -1,1 +1,0 @@
-## 8.5 UE procedure for reporting channel state information (CSI)

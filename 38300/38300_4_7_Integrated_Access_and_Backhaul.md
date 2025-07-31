@@ -1,1 +1,0 @@
-## 4.7 Integrated Access and Backhaul

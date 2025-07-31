@@ -1,1 +1,0 @@
-## 7.2 Downlink shared channel and paging channel

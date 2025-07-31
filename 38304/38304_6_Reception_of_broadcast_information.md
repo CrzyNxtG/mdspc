@@ -1,1 +1,0 @@
-# 6 Reception of broadcast information
